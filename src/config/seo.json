@@ -1,0 +1,27 @@
+{
+  "title": "",
+  "titleTemplate": "%s",
+  "defaultTitle": "Mohenjo Paro",
+  "description": "Portfolio, Gallery, Blog, Works, etc. by Mohenjo Paro",
+  "openGraph": {
+    "title": "Mohenjo Paro",
+    "description": "Portfolio, Gallery, Blog, Works, etc. by Mohenjo Paro",
+    "type": "website",
+    "locale": "ja_JP",
+    "url": "https://mohenjoparo.com",
+    "site_name": "Mohenjo Paro",
+    "images": [
+      {
+        "url": "favicon-32x32.png",
+        "width": 800,
+        "height": 600,
+        "alt": "Mehenjo Paro"
+      }
+    ]
+  },
+  "twitter": {
+    "handle": "@mohenjoparo",
+    "site": "@mohenjoparo",
+    "cardType": "summary_large_image"
+  }
+}
